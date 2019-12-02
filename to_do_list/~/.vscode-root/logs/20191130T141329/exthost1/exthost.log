@@ -1,0 +1,203 @@
+[2019-11-30 14:13:31.291] [exthost] [info] extension host started
+[2019-11-30 14:13:31.314] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2019-11-30 14:13:31.315] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/20/usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-11-30 14:13:31.322] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2019-11-30 14:13:31.322] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/20/usr/share/code/resources/app/extensions/emmet/dist/extension
+[2019-11-30 14:13:31.367] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2019-11-30 14:13:31.367] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/20/usr/share/code/resources/app/extensions/git/dist/main
+[2019-11-30 14:13:31.415] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2019-11-30 14:13:31.415] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/20/usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2019-11-30 14:13:31.419] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer {"startup":true,"extensionId":{"value":"ritwickdey.LiveServer","_lower":"ritwickdey.liveserver"},"activationEvent":"*"}
+[2019-11-30 14:13:31.419] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/saneeyaiqbal/.vscode/extensions/ritwickdey.liveserver-5.6.1/out/src/extension
+[2019-11-30 14:13:31.769] [exthost] [info] eager extensions activated
+[2019-11-30 14:13:38.235] [exthost] [info] extension host started
+[2019-11-30 14:13:38.245] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2019-11-30 14:13:38.246] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/20/usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-11-30 14:13:38.250] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2019-11-30 14:13:38.250] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/20/usr/share/code/resources/app/extensions/emmet/dist/extension
+[2019-11-30 14:13:38.275] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2019-11-30 14:13:38.275] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/20/usr/share/code/resources/app/extensions/git/dist/main
+[2019-11-30 14:13:38.314] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2019-11-30 14:13:38.314] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/20/usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2019-11-30 14:13:38.317] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer {"startup":true,"extensionId":{"value":"ritwickdey.LiveServer","_lower":"ritwickdey.liveserver"},"activationEvent":"*"}
+[2019-11-30 14:13:38.317] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/saneeyaiqbal/.vscode/extensions/ritwickdey.liveserver-5.6.1/out/src/extension
+[2019-11-30 14:13:38.672] [exthost] [info] eager extensions activated
+[2019-11-30 14:13:55.524] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:javascript"}
+[2019-11-30 14:13:55.524] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/20/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension
+[2019-11-30 14:17:24.081] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:typescript"}
+[2019-11-30 14:17:24.082] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/20/usr/share/code/resources/app/extensions/extension-editing/dist/extension
+[2019-11-30 14:19:09.571] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2019-11-30 14:19:09.573] [exthost] [error] Error: <semantic> TypeScript Server Error (3.6.3)
+Debug Failure. Did not expect JsxSelfClosingElement to have an Identifier in its trivia
+Error: Debug Failure. Did not expect JsxSelfClosingElement to have an Identifier in its trivia
+    at addSyntheticNodes (tsserver.js:124556:30)
+    at createChildren (tsserver.js:124545:9)
+    at NodeObject.getChildren (tsserver.js:124489:56)
+    at getTokenAtPositionWorker (tsserver.js:99305:43)
+    at Object.getTokenAtPosition (tsserver.js:99297:16)
+    at getInfo (tsserver.js:121028:28)
+    at Object.getAvailableActions (tsserver.js:121012:28)
+    at tsserver.js:115901:128
+    at getIterator (tsserver.js:637:23)
+    at Object.flatMapIterator (tsserver.js:620:27)
+    at Object.getApplicableRefactors (tsserver.js:115900:36)
+    at Object.getApplicableRefactors (tsserver.js:126101:32)
+    at IOSession.Session.getApplicableRefactors (tsserver.js:135013:53)
+    at Session.handlers.ts.createMapFromTemplate._a.<computed> (tsserver.js:133868:61)
+    at tsserver.js:135256:88
+    at IOSession.Session.executeWithRequestId (tsserver.js:135247:28)
+    at IOSession.Session.executeCommand (tsserver.js:135256:33)
+    at IOSession.Session.onMessage (tsserver.js:135279:35)
+    at Interface.<anonymous> (tsserver.js:136594:27)
+    at Interface.emit (events.js:200:13)
+    at Interface._onLine (readline.js:314:10)
+    at Interface._normalWrite (readline.js:459:12)
+    at Socket.ondata (readline.js:170:10)
+    at Socket.emit (events.js:200:13)
+    at addChunk (_stream_readable.js:294:12)
+    at readableAddChunk (_stream_readable.js:275:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+	at Function.create (/snap/code/20/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:53:63732)
+	at h.dispatchResponse (/snap/code/20/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:53:56670)
+	at h.dispatchMessage (/snap/code/20/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:53:55568)
+	at /snap/code/20/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:53:55044
+	at l.fire (/snap/code/20/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:47:207)
+	at t.Reader.onLengthData (/snap/code/20/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:53:61946)
+	at Socket.<anonymous> (/snap/code/20/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:53:61594)
+	at Socket.emit (events.js:200:13)
+	at addChunk (_stream_readable.js:294:12)
+	at readableAddChunk (_stream_readable.js:275:11)
+	at Socket.Readable.push (_stream_readable.js:210:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+[2019-11-30 14:19:10.070] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2019-11-30 14:19:10.070] [exthost] [error] Error: <semantic> TypeScript Server Error (3.6.3)
+Debug Failure. Did not expect JsxSelfClosingElement to have an Identifier in its trivia
+Error: Debug Failure. Did not expect JsxSelfClosingElement to have an Identifier in its trivia
+    at addSyntheticNodes (tsserver.js:124556:30)
+    at createChildren (tsserver.js:124545:9)
+    at NodeObject.getChildren (tsserver.js:124489:56)
+    at getTokenAtPositionWorker (tsserver.js:99305:43)
+    at Object.getTokenAtPosition (tsserver.js:99297:16)
+    at getInfo (tsserver.js:121028:28)
+    at Object.getAvailableActions (tsserver.js:121012:28)
+    at tsserver.js:115901:128
+    at getIterator (tsserver.js:637:23)
+    at Object.flatMapIterator (tsserver.js:620:27)
+    at Object.getApplicableRefactors (tsserver.js:115900:36)
+    at Object.getApplicableRefactors (tsserver.js:126101:32)
+    at IOSession.Session.getApplicableRefactors (tsserver.js:135013:53)
+    at Session.handlers.ts.createMapFromTemplate._a.<computed> (tsserver.js:133868:61)
+    at tsserver.js:135256:88
+    at IOSession.Session.executeWithRequestId (tsserver.js:135247:28)
+    at IOSession.Session.executeCommand (tsserver.js:135256:33)
+    at IOSession.Session.onMessage (tsserver.js:135279:35)
+    at Interface.<anonymous> (tsserver.js:136594:27)
+    at Interface.emit (events.js:200:13)
+    at Interface._onLine (readline.js:314:10)
+    at Interface._normalWrite (readline.js:459:12)
+    at Socket.ondata (readline.js:170:10)
+    at Socket.emit (events.js:200:13)
+    at addChunk (_stream_readable.js:294:12)
+    at readableAddChunk (_stream_readable.js:275:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+	at Function.create (/snap/code/20/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:53:63732)
+	at h.dispatchResponse (/snap/code/20/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:53:56670)
+	at h.dispatchMessage (/snap/code/20/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:53:55568)
+	at /snap/code/20/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:53:55044
+	at l.fire (/snap/code/20/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:47:207)
+	at t.Reader.onLengthData (/snap/code/20/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:53:61946)
+	at Socket.<anonymous> (/snap/code/20/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:53:61594)
+	at Socket.emit (events.js:200:13)
+	at addChunk (_stream_readable.js:294:12)
+	at readableAddChunk (_stream_readable.js:275:11)
+	at Socket.Readable.push (_stream_readable.js:210:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+[2019-11-30 14:19:10.402] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2019-11-30 14:19:10.402] [exthost] [error] Error: <semantic> TypeScript Server Error (3.6.3)
+Debug Failure. Did not expect JsxSelfClosingElement to have an Identifier in its trivia
+Error: Debug Failure. Did not expect JsxSelfClosingElement to have an Identifier in its trivia
+    at addSyntheticNodes (tsserver.js:124556:30)
+    at createChildren (tsserver.js:124545:9)
+    at NodeObject.getChildren (tsserver.js:124489:56)
+    at getTokenAtPositionWorker (tsserver.js:99305:43)
+    at Object.getTokenAtPosition (tsserver.js:99297:16)
+    at getInfo (tsserver.js:121028:28)
+    at Object.getAvailableActions (tsserver.js:121012:28)
+    at tsserver.js:115901:128
+    at getIterator (tsserver.js:637:23)
+    at Object.flatMapIterator (tsserver.js:620:27)
+    at Object.getApplicableRefactors (tsserver.js:115900:36)
+    at Object.getApplicableRefactors (tsserver.js:126101:32)
+    at IOSession.Session.getApplicableRefactors (tsserver.js:135013:53)
+    at Session.handlers.ts.createMapFromTemplate._a.<computed> (tsserver.js:133868:61)
+    at tsserver.js:135256:88
+    at IOSession.Session.executeWithRequestId (tsserver.js:135247:28)
+    at IOSession.Session.executeCommand (tsserver.js:135256:33)
+    at IOSession.Session.onMessage (tsserver.js:135279:35)
+    at Interface.<anonymous> (tsserver.js:136594:27)
+    at Interface.emit (events.js:200:13)
+    at Interface._onLine (readline.js:314:10)
+    at Interface._normalWrite (readline.js:459:12)
+    at Socket.ondata (readline.js:170:10)
+    at Socket.emit (events.js:200:13)
+    at addChunk (_stream_readable.js:294:12)
+    at readableAddChunk (_stream_readable.js:275:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+	at Function.create (/snap/code/20/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:53:63732)
+	at h.dispatchResponse (/snap/code/20/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:53:56670)
+	at h.dispatchMessage (/snap/code/20/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:53:55568)
+	at /snap/code/20/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:53:55044
+	at l.fire (/snap/code/20/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:47:207)
+	at t.Reader.onLengthData (/snap/code/20/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:53:61946)
+	at Socket.<anonymous> (/snap/code/20/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:53:61594)
+	at Socket.emit (events.js:200:13)
+	at addChunk (_stream_readable.js:294:12)
+	at readableAddChunk (_stream_readable.js:275:11)
+	at Socket.Readable.push (_stream_readable.js:210:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+[2019-11-30 14:21:57.314] [exthost] [info] ExtensionService#_doActivateExtension vscode.css-language-features {"startup":false,"extensionId":{"value":"vscode.css-language-features","_lower":"vscode.css-language-features"},"activationEvent":"onLanguage:css"}
+[2019-11-30 14:21:57.315] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/20/usr/share/code/resources/app/extensions/css-language-features/client/dist/cssMain
+[2019-11-30 14:33:49.358] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features {"startup":false,"extensionId":{"value":"vscode.html-language-features","_lower":"vscode.html-language-features"},"activationEvent":"onLanguage:html"}
+[2019-11-30 14:33:49.358] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/20/usr/share/code/resources/app/extensions/html-language-features/client/dist/htmlMain
+[2019-11-30 15:04:47.556] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2019-11-30 15:04:47.557] [exthost] [error] Error: <semantic> TypeScript Server Error (3.6.3)
+Cannot read property 'length' of undefined
+TypeError: Cannot read property 'length' of undefined
+    at Object.find (tsserver.js:385:35)
+    at getReferencedSymbolsForModuleIfDeclaredBySourceFile (tsserver.js:105722:78)
+    at Object.getReferencedSymbolsForNode (tsserver.js:105700:40)
+    at Object.getReferenceEntriesForNode (tsserver.js:105434:58)
+    at getSemanticDocumentHighlights (tsserver.js:104124:57)
+    at Object.getDocumentHighlights (tsserver.js:104112:20)
+    at Object.getDocumentHighlights (tsserver.js:125655:42)
+    at IOSession.Session.getDocumentHighlights (tsserver.js:134406:71)
+    at Session.handlers.ts.createMapFromTemplate._a.<computed> (tsserver.js:133830:61)
+    at tsserver.js:135256:88
+    at IOSession.Session.executeWithRequestId (tsserver.js:135247:28)
+    at IOSession.Session.executeCommand (tsserver.js:135256:33)
+    at IOSession.Session.onMessage (tsserver.js:135279:35)
+    at Interface.<anonymous> (tsserver.js:136594:27)
+    at Interface.emit (events.js:200:13)
+    at Interface._onLine (readline.js:314:10)
+    at Interface._normalWrite (readline.js:459:12)
+    at Socket.ondata (readline.js:170:10)
+    at Socket.emit (events.js:200:13)
+    at addChunk (_stream_readable.js:294:12)
+    at readableAddChunk (_stream_readable.js:275:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+	at Function.create (/snap/code/20/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:53:63732)
+	at h.dispatchResponse (/snap/code/20/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:53:56670)
+	at h.dispatchMessage (/snap/code/20/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:53:55568)
+	at /snap/code/20/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:53:55044
+	at l.fire (/snap/code/20/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:47:207)
+	at t.Reader.onLengthData (/snap/code/20/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:53:61946)
+	at Socket.<anonymous> (/snap/code/20/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:53:61594)
+	at Socket.emit (events.js:200:13)
+	at addChunk (_stream_readable.js:294:12)
+	at readableAddChunk (_stream_readable.js:275:11)
+	at Socket.Readable.push (_stream_readable.js:210:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
