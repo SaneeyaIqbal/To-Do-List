@@ -1,9 +1,26 @@
 # To_Do_List
 
-Repository for building a To Do List kind of thing using React 
+This is a fully functional TO DO list.
 
-here we can add a todo thing in the list.
+Anyone can add the items to the list.
 
-also after the todo list has completed the data can be striked off.
+This application has only frontend and works fine.
 
-or it can be deleted.
+Installation:
+
+Clone this Repo:
+
+https://github.com/SaneeyaIqbal/To-Do-List.git
+Get inside the todolist folder:
+
+cd todolist
+Start the application:
+
+npm start
+Using redux I have mainted my state in another folder. To check that implementation: Get into to-do-list folder:
+
+cd to-do-list
+Start the application:
+
+npm start
+I hope you liked this application.
